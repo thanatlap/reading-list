@@ -82,38 +82,38 @@
 <h2> Career-knowledge </h2>
 <h3> 1. AI. </h3>
   <ul>
-    <li>[ ]<a href=""> Hands-On Machine Learning with Scikit-Learn & Tensorflow, Aurelien</a></li>
-    <li>[ ]<a href=""> Deep Learning, Ian Goodfellow</a></li>
+    <li><a href=""> Hands-On Machine Learning with Scikit-Learn & Tensorflow, Aurelien</a></li>
+    <li><a href=""> Deep Learning, Ian Goodfellow</a></li>
   </ul>
 <h3> 2. Computer </h3>
   <ul>
-    <li>[ ]<a href=""> Code, charles Petzold</a></li>
+    <li><a href=""> Code, charles Petzold</a></li>
   </ul>
 <h3> 3. Design </h3>
   <ul>
-    <li>[ ]<a href=""> Trend Driven Innovation, Henry Moson, David Mattin</a></li>
-    <li>[ ]<a href=""> Value Proposition design, Alex, Yves, Greg, Alan</a></li>
-    <li>[ ]<a href=""> Business model generation, Alex, Alan</a></li>
-    <li>[ ]<a href=""> Cross-Idustry Innovation Not Invented here</a></li>
+    <li><a href=""> Trend Driven Innovation, Henry Moson, David Mattin</a></li>
+    <li><a href=""> Value Proposition design, Alex, Yves, Greg, Alan</a></li>
+    <li><a href=""> Business model generation, Alex, Alan</a></li>
+    <li><a href=""> Cross-Idustry Innovation Not Invented here</a></li>
   </ul>
 <h3> 4. UX </h3>
 <h3> 5. Business </h3>
   <ul>
+    <li>[ ]<a href=""> Branding 4.0, ปิยะชาติ อิศรภักดี</a></li>
     <li>[ ]<a href=""> The lean startup, Eric Ries</a></li>
     <li>[ ]<a href=""> Disciplined entrepreneurship, Bill Aulet</a></li>
-    <li>[ ]<a href=""> Branding 4.0, ปิยะชาติ อิศรภักดี</a></li>
   </ul>
 <h3> 6. Marketing </h3>
   <ul>
     <li>[ ]<a href=""> Marketing 4.0, Philip Kotler</a></li>
-    <li>[ ]<a href=""> RE:Digital</a></li>
-    <li>[ ]<a href=""> Digital Marketing: concept & case study</a></li>
+    <li><a href=""> RE:Digital</a></li>
+    <li><a href=""> Digital Marketing: concept & case study</a></li>
   </ul>
 <h3> 7. Graphic Design </h3>
   <ul>
-    <li>[ ]<a href=""> The fundamentals of drawing, Barringtin Barber</a></li>
-    <li>[ ]<a href=""> Sketch!, Frane Bellevulle ,Van Stone</a></li>
-    <li>[ ]<a href=""> Graphic Design School, Thames & Hudson</a></li>
+    <li><a href=""> Graphic Design School, Thames & Hudson</a></li>
+    <li><a href=""> The fundamentals of drawing, Barringtin Barber</a></li>
+    <li><a href=""> Sketch!, Frane Bellevulle ,Van Stone</a></li>    
   </ul>
 <h2> Economy </h2>
   <ul>
@@ -125,8 +125,8 @@
   </ul>
 <h2> Photography </h2>
   <ul>
-    <li>[ ]<a href=""> The complete guide to organising and styling professional photo shoot</a></li>
-    <li>[ ]<a href=""> Fundamental of photography, ศักดิ์ระพี นพรัตน์</a></li>
-    <li>[ ]<a href=""> Composition, วิโรจน์ เจียรวัชระมงคล</a></li>
+    <li><a href=""> The complete guide to organising and styling professional photo shoot</a></li>
+    <li><a href=""> Fundamental of photography, ศักดิ์ระพี นพรัตน์</a></li>
+    <li><a href=""> Composition, วิโรจน์ เจียรวัชระมงคล</a></li>
   </ul>
 
