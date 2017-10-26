@@ -121,7 +121,7 @@
   </ul>
 <h2> Spare-time </h2>
   <ul>
-    <li>[ ] Beneath A scarlet sky</li>
+    <li>[ ]<a href=""> Beneath A scarlet sky</a></li>
   </ul>
 <h2> Photography </h2>
   <ul>
