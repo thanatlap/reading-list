@@ -1,4 +1,5 @@
 # Reading-list
+"The book is good not becasue of its content. But because you actually read it."
 <p>This is a list where I keep all name of the book I intend to read.</p>
 <p>I seperate my list into three categories, Self-imporve, Career-knowledge, and Spare-time.</p>
 <p>Some of name are in Thai.</p>
