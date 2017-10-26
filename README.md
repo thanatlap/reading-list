@@ -113,7 +113,8 @@
   <ul>
     <li><a href=""> Graphic Design School, Thames & Hudson</a></li>
     <li><a href=""> The fundamentals of drawing, Barringtin Barber</a></li>
-    <li><a href=""> Sketch!, Frane Bellevulle ,Van Stone</a></li>    
+    <li><a href=""> Sketch!, Frane Bellevulle ,Van Stone</a></li>
+    <li><a href=""> Graphic design thinking ,Ellen Lupton</a></li> 
   </ul>
 <h2> Economy </h2>
   <ul>
