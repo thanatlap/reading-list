@@ -11,7 +11,7 @@
   </ul>
 <h2>Practice</h2>
   <ul>
-    <li><a href=""></a></li>
+    <li><a href="https://www.kaggle.com/">Kaggle</a></li>
     <li><a href=""></a></li>
   </ul>
 <h2>Resources</h2>
