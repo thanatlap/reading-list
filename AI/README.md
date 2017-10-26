@@ -6,7 +6,7 @@
   </ul>
 <h2>Course</h2>
   <ul>
-    <li><a href=""></a></li>
+    <li><a href="https://github.com/sachinruk/deepschool.io">deepschool.io</a></li>
     <li><a href=""></a></li>
   </ul>
 <h2>Practice</h2>
@@ -14,3 +14,4 @@
     <li><a href=""></a></li>
     <li><a href=""></a></li>
   </ul>
+<h2>Resources</h2>
